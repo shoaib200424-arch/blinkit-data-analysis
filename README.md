@@ -89,7 +89,7 @@ This project transforms raw data into a decision-making tool:
 
 ## 📷 Dashboard Preview
 
-    ![image alt]([images/dashboard1.png](https://github.com/shoaib200424-arch/blinkit-data-analysis/blob/c47b3dcf766e8700fe60290d8ee3cecba94994fb/images/Dashboard1.png))
+    ![image alt](https://github.com/shoaib200424-arch/blinkit-data-analysis/blob/65f1211cd18401c92effd9759607be1ffdd3540d/images/Dashboard1.png)
     ![image alt](https://github.com/shoaib200424-arch/blinkit-data-analysis/blob/1199e49e8963895b0346adf45c5d22594099e8c6/images/Dashboard2.png)
 ---
 
