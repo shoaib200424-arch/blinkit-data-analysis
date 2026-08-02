@@ -89,8 +89,8 @@ This project transforms raw data into a decision-making tool:
 
 ## 📷 Dashboard Preview
 
-    ![Dashboard](images/dashboard1.png)
-    ![Dashboard](images/dashboard2.png)
+    ![image alt](images/dashboard1.png)
+    ![image alt](images/dashboard2.png)
 ---
 
 ## 📂 Project Structure
